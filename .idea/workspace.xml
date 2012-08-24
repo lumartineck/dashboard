@@ -22,10 +22,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.MD" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.MD">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="42" selection-start="11" selection-end="53" vertical-scroll-proportion="0.032967035">
+            <state line="3" column="54" selection-start="147" selection-end="147" vertical-scroll-proportion="0.04945055">
               <folding />
             </state>
           </provider>
@@ -306,9 +306,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="42" selection-start="11" selection-end="53" vertical-scroll-proportion="0.032967035">
+        <state line="3" column="54" selection-start="147" selection-end="147" vertical-scroll-proportion="0.04945055">
           <folding />
         </state>
       </provider>
